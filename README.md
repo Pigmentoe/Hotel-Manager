@@ -1,4 +1,3 @@
-# ENGR103
 Project for an intro level CS class:
 Create a hotel check-in system using structs to automatically 
 assign rooms to customers and charge them the specified rate for
